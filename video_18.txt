@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-branch kaywan
-<<<<<<< HEAD
-start video 25
-=======
-start video 24
->>>>>>> master
-=======
-branch kaywan video 23
-start video 24
->>>>>>> master
+brance kaywan
