@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-kaywan
-=======
-branch kaywan
-video 23
->>>>>>> master
-
-kkkkkkkkkkkkkkkkkkkkkdcscxascdscdscdscdscedcewcedcece
+video 24
